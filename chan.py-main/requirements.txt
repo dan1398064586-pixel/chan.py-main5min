@@ -1,0 +1,9 @@
+streamlit
+lightweight-charts>=1.0.14
+pandas
+ccxt
+matplotlib
+requests
+numpy
+pyyaml
+tenacity
